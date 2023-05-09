@@ -8,7 +8,7 @@
         <version>2.6.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.github.vffmpeg</groupId>
+    <groupId>io.github.ldh8267937</groupId>
     <artifactId>vffmpeg</artifactId>
     <version>1.0.0</version>
     <name>vffmpeg</name>
