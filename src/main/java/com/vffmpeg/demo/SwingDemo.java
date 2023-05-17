@@ -11,7 +11,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-class SwingDemo extends JFrame {
+public class SwingDemo extends JFrame {
     private static int allWidth=800;
     private static String ffmegPath="";
     private static JLabel JLabelVideo;
